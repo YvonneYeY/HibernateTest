@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="javax.servlet">
+    <CLASSES>
+      <root url="jar://H:/udisk'u/Jar 包文件/servlet-3_0-final-jar_and_schema/javax.servlet.jar!/" />
+      <root url="file://D:/Programming/Apache Software Founder/Tomcat8.0/lib" />
+      <root url="jar://D:/Programming/Apache Software Founder/Tomcat8.0/lib/servlet-api.jar!/" />
+      <root url="jar://D:/Programming/Apache Software Founder/Tomcat8.0/lib/ojdbc6.jar!/" />
+      <root url="jar://D:/Programming/Apache Software Founder/Tomcat8.0/lib/jsp-api.jar!/" />
+      <root url="jar://D:/Programming/Apache Software Founder/Tomcat8.0/lib/tomcat-api.jar!/" />
+      <root url="jar://D:/Programming/oracle/product/11.2.0/dbhome_1/jdbc/lib/ojdbc5.jar!/" />
+      <root url="jar://D:/Programming/oracle/product/11.2.0/dbhome_1/jdbc/lib/ojdbc5_g.jar!/" />
+      <root url="jar://D:/Programming/oracle/product/11.2.0/dbhome_1/jdbc/lib/ojdbc5dms.jar!/" />
+      <root url="jar://D:/Programming/oracle/product/11.2.0/dbhome_1/jdbc/lib/ojdbc5dms_g.jar!/" />
+      <root url="jar://D:/Programming/oracle/product/11.2.0/dbhome_1/jdbc/lib/ojdbc6.jar!/" />
+      <root url="jar://D:/Programming/oracle/product/11.2.0/dbhome_1/jdbc/lib/ojdbc6_g.jar!/" />
+      <root url="jar://D:/Programming/oracle/product/11.2.0/dbhome_1/jdbc/lib/ojdbc6dms.jar!/" />
+      <root url="jar://D:/Programming/oracle/product/11.2.0/dbhome_1/jdbc/lib/ojdbc6dms_g.jar!/" />
+      <root url="jar://D:/Programming/oracle/product/11.2.0/dbhome_1/jdbc/lib/simplefan.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/Programming/Apache Software Founder/Tomcat8.0/lib" recursive="false" />
+  </library>
+</component>

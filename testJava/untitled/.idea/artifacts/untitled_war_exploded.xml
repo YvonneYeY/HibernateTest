@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="untitled:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/untitled_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="crduForOneSheet/web/Web" />
+      <element id="dir-copy" path="D:/Programming/Apache Software Founder/Tomcat8.0/webapps" />
+      <element id="module-source" name="crduForOneSheet" />
+      <element id="javaee-facet-resources" facet="crduForOneSheet/web/Web2" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="javaee-facet-classes" facet="crduForOneSheet/web/Web2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

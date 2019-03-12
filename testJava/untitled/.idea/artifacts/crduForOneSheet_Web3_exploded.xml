@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="crduForOneSheet:Web3 exploded">
+    <output-path>$PROJECT_DIR$/../artifacts/crduForOneSheet_Web3_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="crduForOneSheet/web/Web3" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="javaee-facet-classes" facet="crduForOneSheet/web/Web3" />
+          <element id="javaee-facet-classes" facet="crduForOneSheet/web/Web4" />
+          <element id="javaee-facet-classes" facet="crduForOneSheet/web/Web5" />
+          <element id="javaee-facet-classes" facet="crduForOneSheet/web/Web6" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="crduForOneSheet/web/Web4" />
+      <element id="javaee-facet-resources" facet="crduForOneSheet/web/Web5" />
+      <element id="javaee-facet-resources" facet="crduForOneSheet/web/Web6" />
+    </root>
+  </artifact>
+</component>
